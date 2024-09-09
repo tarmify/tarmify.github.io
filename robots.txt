@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tarmify.github.io/sitemap.html.gz
+Sitemap: https://tarmify.github.io/app/sitemap.html.gz
+Sitemap: https://tarmify.github.io/assets/sitemap.html.gz
+Sitemap: https://tarmify.github.io/css/sitemap.html.gz
+Sitemap: https://tarmify.github.io/includes/sitemap.html.gz
+Sitemap: https://tarmify.github.io/item/sitemap.html.gz
+Sitemap: https://tarmify.github.io/src/sitemap.html.gz
